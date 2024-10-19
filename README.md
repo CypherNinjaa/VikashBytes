@@ -5,13 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashbytes" alt="vikashbytes" /></a> </p>
 
-- 🔭 I’m currently working on **C language**
+- 🔭 I’m currently working on **.......**
 
 - 🌱 I’m currently learning **C language**
+
+- 👯 I’m looking to collaborate on **.......**
+
+- 🤝 I’m looking for help with **.......**
+
+- 👨‍💻 All of my projects are available at [.......](.......)
+
+- 📝 I regularly write articles on [.......](.......)
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **vikashkelly@gmail.com**
+
+- 📄 Know about my experiences [.......](.......)
 
 - ⚡ Fun fact **I think I am a best Coder**
 
